@@ -1,0 +1,76 @@
+.h3-item{
+    color: pink;
+    cursor: pointer;
+}
+.p1-item{
+    color: grey;
+    cursor: pointer;
+}
+.div-item{
+    color: red;
+    cursor: pointer;
+}
+.p2-item{
+    color: green;
+    cursor: pointer;
+}
+.yellow{
+    color: yellow;
+    cursor: pointer;
+}
+.td-item:hover{
+    color: yellow;
+    cursor: pointer;
+}
+.td-item2{
+    color: orange;
+    cursor: pointer;
+}
+.td-item3{
+    color: blue;
+    cursor: pointer;
+}
+.td-item4{
+    color: green;
+    cursor: pointer;
+}
+.td-item5{
+    color: blueviolet;
+    cursor: pointer;
+}
+.td-item6{
+    background-color: blue;
+    cursor: pointer;
+}
+.td-item7{
+    background-color: yellow;
+    cursor: pointer;
+}
+.td-item8{
+    background-color: brown;
+    cursor: pointer;
+}
+.td-item9:hover{
+    color: greenyellow;
+    cursor: pointer;
+}
+.td-item10{
+    color: grey;
+    cursor: pointer;
+}
+.td-item11{
+    color: red;
+    cursor: pointer;
+}
+.td-item12{
+    background-color: red;
+    cursor: pointer;
+}
+.td-item13{
+    color: greenyellow;
+    cursor: pointer;
+}
+.td-item14:hover{
+    color: rebeccapurple;
+    cursor: pointer;
+}
